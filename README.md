@@ -1,2 +1,9 @@
-# Smart-Travel-Booking-System
-Java console-based travel booking system for managing flights, trains, hotels, bookings, users, and payments.
+# ✈️ Smart Travel Booking System
+
+A Java console-based travel booking application designed to
+simulate real-world travel booking operations including flights,
+trains, hotels, bookings, cancellations, and payments.
+
+## 🛠️ Technologies
+
+Java • OOP • Collections • Exception Handling • Date & Time
